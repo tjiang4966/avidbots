@@ -1,5 +1,8 @@
-Execution Guide
-1. Open a terminal
-2. run node server.js to start a server
-3. Open a new terminal
-4. run npm start to get a front-end page ('localhost:3000')
+# Execution Guide
+* Open a terminal
+* `npm install`
+* `node server.js` to start a server
+* Open a new terminal
+* `npm start` to get a front-end page [avidbots-app] http://localhost:3000
+# Atention
+You have to maually terminate the backend application every time
